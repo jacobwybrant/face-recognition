@@ -1,5 +1,7 @@
 # Facial Recognition
 
+This face recognition software was created as part of my second year 'Professional Development' group project, this code was produced by a group including myself. The inital commit reflects the group project when it was submitted and is the product of a group effort, any additonal commits to this repository will be my own work.  
+
 In this directory we will provide the entirety of the source code in Python for facial recognition on photos/videos/live videos.
 
 ## GUI
